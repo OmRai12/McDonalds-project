@@ -1,0 +1,21 @@
+.main-section-1 img{
+  width: 748px;
+  height: 301px;
+}
+.main-section-1{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 30px;
+  padding-top: 100px;
+  width: 90vw;
+  margin: auto;
+  /* background-color: red; */
+}
+.main-section-1-information h2 {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 40px;
+  margin-top: 15px;
+  margin-bottom: 18px;
+}
